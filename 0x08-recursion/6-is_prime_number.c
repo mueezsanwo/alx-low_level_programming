@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
 *prime_number - input integer is a prime number
 *@a: variable name
